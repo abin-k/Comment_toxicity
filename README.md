@@ -1,4 +1,5 @@
 # COMMENT TOXICITY
+An NLP language model which is able to classify different range of comments 
 
 ![C9A31747-FBED-41A5-8820ED507C404BB0_source](https://github.com/abin-k/comment_toxicity/assets/116078614/ca06e219-045c-48fe-8383-3899d1d47487)
 
